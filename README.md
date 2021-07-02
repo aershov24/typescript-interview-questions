@@ -158,7 +158,7 @@ We can call base class constructor using `super()`.
 🔗 **Source:** [http://www.talkingdotnet.com](http://www.talkingdotnet.com/typescript-interview-questions/)
 
 
-### Q10: What are the difference beetween Typescript and JavaScript? ⭐⭐
+### Q10: What are the difference between Typescript and JavaScript? ⭐⭐
 
 **Answer:**
 
