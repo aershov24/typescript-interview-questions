@@ -36,6 +36,10 @@ var variable_name:number = null;
 ```js
 var variable_name:number = undefined;
 ```
+* **BigInt** type: it is the type that allows to model theoretically arbitrarily large integers. It is the same as JavaScript primitive bigint number.
+```js
+var variable_name:bigint;
+```
 
 
 🔗 **Source:** [FullStack.Cafe](https://www.fullstack.cafe)
